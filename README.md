@@ -37,7 +37,7 @@ Designed to be simple, lightweight, and completely client-side, Melissa requires
 
 Try Melissa directly in your browser:
 
-**[→ Try Melissa Now](https://maxchennn.github.io/melissa/)**
+**[→ Try Melissa Now](https://melissa-alpha.vercel.app/)**
 
 ---
 
